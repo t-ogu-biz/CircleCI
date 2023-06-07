@@ -1,0 +1,6 @@
+framework module Pods_CircleCiVerificationTests {
+  umbrella header "Pods-CircleCiVerificationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
